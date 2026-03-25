@@ -5,13 +5,13 @@
 🧠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,js,react,firebase,mysql,git,linux,vscode" /> </p>
 🚀 Featured Projects
-<details> <summary>📱 TeaLink – Smart Tea Supply Chain</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/TeaLink/main/assets/mockup.gif" alt="TeaLink App" style="border-radius: 20px; box-shadow: 0px 4px 25px rgba(0,0,0,0.3); max-width:300px;"/> </p>
+<details> <summary>📱 TeaLink – Smart Tea Supply Chain</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/TeaLink/main/assets/feature.png" alt="TeaLink App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 ✨ Real-time tracking • Role-based system • Firebase backend
 
-</details> <details> <summary>💰 Expense Tracker – Smart Finance Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/ExpenseTracker/main/assets/mockup.gif" alt="Expense Tracker" style="border-radius: 20px; box-shadow: 0px 4px 25px rgba(0,0,0,0.3); max-width:300px;"/> </p>
+</details> <details> <summary>💰 Expense Tracker – Smart Finance Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/ExpenseTracker/main/assets/feature.png" alt="Expense Tracker" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
@@ -19,19 +19,19 @@
 🔐 Secure authentication + cloud sync
 🧾 Receipt upload & storage
 
-</details> <details> <summary>💬 Convo – Chat Application</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/Convo/main/assets/mockup.gif" alt="Convo Chat App" style="border-radius: 20px; box-shadow: 0px 4px 25px rgba(0,0,0,0.3); max-width:300px;"/> </p>
+</details> <details> <summary>💬 Convo – Chat Application</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/Convo/main/assets/feature.png" alt="Convo App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 🔐 Secure real-time messaging system
 
-</details> <details> <summary>🎓 UniGPA – GPA Tracker</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/UniGPA/main/assets/mockup.gif" alt="UniGPA App" style="border-radius: 20px; box-shadow: 0px 4px 25px rgba(0,0,0,0.3); max-width:300px;"/> </p>
+</details> <details> <summary>🎓 UniGPA – GPA Tracker</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/UniGPA/main/assets/feature.png" alt="UniGPA App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 📊 Track and manage academic performance
 
-</details> <details> <summary>📒 DialBook – Contact Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/DialBook/main/assets/mockup.gif" alt="DialBook App" style="border-radius: 20px; box-shadow: 0px 4px 25px rgba(0,0,0,0.3); max-width:300px;"/> </p>
+</details> <details> <summary>📒 DialBook – Contact Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/DialBook/main/assets/feature.png" alt="DialBook App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
