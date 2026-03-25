@@ -1,17 +1,17 @@
-👋 Hi, I'm Vinura Deelaka
+[👋 Hi, I'm Vinura Deelaka
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Flutter+Mobile+Developer;AI+Enthusiast;Building+Scalable+Apps;Clean+Architecture+Advocate" /> </p> <p align="center"> 🚀 <b>Flutter Mobile Developer | AI Enthusiast | Building Scalable Cross-Platform Apps</b> </p>
 💫 About Me
 <p align="center"> 🎓 Computer Science Undergraduate <br> 📱 Flutter & Cross-Platform Specialist <br> 🤖 AI & Machine Learning Enthusiast <br> ⚡ Building scalable, clean & user-focused apps </p>
 🧠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,js,react,firebase,mysql,git,linux,vscode" /> </p>
 🚀 Featured Projects
-<details> <summary>📱 TeaLink – Smart Tea Supply Chain</summary> <p align="center"> <img src="https://github.com/vinuraDG/vinuraDG/blob/main/assets/TeaLink.png" alt="TeaLink App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
+<details> <summary>📱 TeaLink – Smart Tea Supply Chain</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/TeaLink.png" alt="TeaLink App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 ✨ Real-time tracking • Role-based system • Firebase backend
 
-</details> <details> <summary>💰 Expense Tracker – Smart Finance Manager</summary> <p align="center"> <img src="https://github.com/vinuraDG/vinuraDG/blob/main/assets/expenses.png" alt="Expense Tracker" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
+</details> <details> <summary>💰 Expense Tracker – Smart Finance Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/expenses.png" alt="Expense Tracker" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
@@ -19,19 +19,19 @@
 🔐 Secure authentication + cloud sync
 🧾 Receipt upload & storage
 
-</details> <details> <summary>💬 Convo – Chat Application</summary> <p align="center"> <img src="https://github.com/vinuraDG/vinuraDG/blob/main/assets/Convo.png" alt="Convo App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
+</details> <details> <summary>💬 Convo – Chat Application</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/Convo.png" alt="Convo App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 🔐 Secure real-time messaging system
 
-</details> <details> <summary>🎓 UniGPA – GPA Tracker</summary> <p align="center"> <img src="https://github.com/vinuraDG/vinuraDG/blob/main/assets/UNIGPA.png" alt="UniGPA App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
+</details> <details> <summary>🎓 UniGPA – GPA Tracker</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/UNIGPA.png" alt="UniGPA App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
 📊 Track and manage academic performance
 
-</details> <details> <summary>📒 DialBook – Contact Manager</summary> <p align="center"> <img src="https://github.com/vinuraDG/vinuraDG/blob/main/assets/DialBook.png" alt="DialBook App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
+</details> <details> <summary>📒 DialBook – Contact Manager</summary> <p align="center"> <img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/DialBook.png" alt="DialBook App" style="border-radius: 40px; box-shadow: 0 8px 30px rgba(0,0,0,0.4); max-width:300px;"/> </p>
 
 🔗 GitHub Repo
 
@@ -39,7 +39,7 @@
 
 </details>
 🐍 GitHub Snake Animation
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="GitHub Snake" style="max-width:400px"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="GitHub Snake" style="max-width:400px" alt="GitHub Snake" style="max-width:400px"/> </p>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinuraDG&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://streak-stats.demolab.com/?user=vinuraDG&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuraDG&layout=compact&theme=tokyonight&hide_border=true" height="140"/> </p>
 🏆 Achievements
@@ -52,3 +52,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinuraDG&color=blue&style=for-the-badge"/> </p>
 ⚡ Fun Fact
 <p align="center"> 😄 I turn coffee into code… and sometimes bugs into features 🚀 </p>
+](https://github.com/vinuraDG/vinuraDG/blob/main/assets/expenses.png)
