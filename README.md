@@ -1,4 +1,4 @@
-[👋 Hi, I'm Vinura Deelaka
+👋 Hi, I'm Vinura Deelaka
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Flutter+Mobile+Developer;AI+Enthusiast;Building+Scalable+Apps;Clean+Architecture+Advocate" /> </p> <p align="center"> 🚀 <b>Flutter Mobile Developer | AI Enthusiast | Building Scalable Cross-Platform Apps</b> </p>
 💫 About Me
 <p align="center"> 🎓 Computer Science Undergraduate <br> 📱 Flutter & Cross-Platform Specialist <br> 🤖 AI & Machine Learning Enthusiast <br> ⚡ Building scalable, clean & user-focused apps </p>
@@ -52,4 +52,3 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinuraDG&color=blue&style=for-the-badge"/> </p>
 ⚡ Fun Fact
 <p align="center"> 😄 I turn coffee into code… and sometimes bugs into features 🚀 </p>
-](https://github.com/vinuraDG/vinuraDG/blob/main/assets/expenses.png)
