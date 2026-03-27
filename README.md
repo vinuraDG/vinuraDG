@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:0A1628,70:00F7FF20,100:7B2FFF&height=240&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Researcher%20%7C%20Digital%20Craftsman&descSize=19&descAlignY=58&descColor=00F7FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:0A1628,70:00F7FF20,100:7B2FFF&height=240&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20%7C%20Digital%20Craftsman&descSize=19&descAlignY=58&descColor=00F7FF&animation=fadeIn"/>
 
 <!-- TYPING SVG — all special chars percent-encoded, no emojis in URL -->
 <a href="https://git.io/typing-svg">
