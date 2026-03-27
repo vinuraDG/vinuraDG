@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG — all special chars percent-encoded, no emojis in URL -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Dart+Cross-Platform+Developer;AI+Researcher+%7C+Computer+Vision+%7C+ML+Systems;YouthSpark+2025+Winner+%E2%80%94+People%27s+Choice+Award;Building+TeaLink+%E2%80%94+Smart+Tea+Supply+Chain+App;AI+Animal+Deterrent+System+%E2%80%94+Undergraduate+Research;Converting+Caffeine+into+Clean+Architecture+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Dart+Cross-Platform+Developer;YouthSpark+2025+Winner+%E2%80%94+People%27s+Choice+Award;Building+TeaLink+%E2%80%94+Smart+Tea+Supply+Chain+App;Converting+Caffeine+into+Clean+Architecture+Daily" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -108,18 +108,7 @@ class Vinura extends Developer {
 
 ## 🚀 Projects
 
-### 🔬 AI Research — Undergraduate Project *(In Progress)*
 
-> **AI-Based Multi-Species Intelligent Animal Deterrent System**
-
-```
-  Real-time computer vision to detect & classify animal species
-  Adaptive acoustic deterrent signals optimized per detected species
-  ML models integrated with embedded systems for automated response
-  Python | TensorFlow/PyTorch | OpenCV | NumPy | Signal Processing
-```
-
----
 
 ### 🍵 TeaLink — Smart Tea Supply Chain
 
