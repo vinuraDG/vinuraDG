@@ -6,7 +6,7 @@ permissions:
 on:
   schedule:
     - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:
+  workflow_dispatch:           # lets you trigger it manually from Actions tab
   push:
     branches:
       - main
