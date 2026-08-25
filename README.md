@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:0A1628,65:00F7FF20,100:7B2FFF&height=250&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%2B%20Mobile%20%2B%20AI%2FIoT%20Engineer&descSize=19&descAlignY=57&descColor=00F7FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:0A1628,65:00F7FF20,100:7B2FFF&height=260&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%2B%20Mobile%20%2B%20AI%2FIoT%20Engineer&descSize=19&descAlignY=57&descColor=00F7FF&animation=twinkle"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -23,15 +23,21 @@
 <a href="https://medium.com/@vinuragamage123">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=vinuraDG&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/vinuraDG?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0D0D0D"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
 </div>
 
----
-
-<img align="right" alt="Dev GIF" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left: 20px;"/>
-
 ## 🧬 `whoami`
+
+<img align="right" alt="Coding GIF" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left: 20px;"/>
 
 ```yaml
 name        : Vinura Deelaka
@@ -42,6 +48,7 @@ location    : Sri Lanka
 timeline    : 2022 - 2026
 contact     : vinuragamage123@gmail.com
 focus_areas : [Flutter, Spring Boot, Node.js, Computer Vision, IoT]
+status      : Compiling ambition into production code...
 ```
 
 ```dart
@@ -66,32 +73,26 @@ class Vinura extends Developer {
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🛠️ Full Tech Arsenal
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7B2FFF&center=true&vCenter=true&width=600&lines=Mobile+%2B+Backend+%2B+Data+%2B+AI+%2B+IoT" alt="Tech Arsenal" />
+
+<br/><br/>
+
 ### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,tailwind&theme=dark" />
 
 ### ⚙️ Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,postman&theme=dark" />
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" />
 
 ### 🤖 AI / ML / Computer Vision
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,32 +103,28 @@ class Vinura extends Developer {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 📡 IoT & Embedded
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark" />
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,javascript,cpp,c,csharp&theme=dark" />
 
 ### 🧰 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,figma,vscode,androidstudio,vercel&theme=dark" />
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Scroll+down+for+builds+that+actually+ship" alt="Projects intro" />
+</div>
+
+<br/>
 
 ### 🦁 Field Watch — AI-Powered Wildlife Deterrent System
 
@@ -149,7 +146,12 @@ class Vinura extends Developer {
   Python | YOLOv8 | OpenCV | Flask | Raspberry Pi 5 | Firebase | React
 ```
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinuraDG)
+![Status](https://img.shields.io/badge/Status-Active_Research-7B2FFF?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -248,7 +250,9 @@ class Vinura extends Developer {
   Island-Paradise — Travel site for Sri Lanka tourism | HTML | CSS
 ```
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🏆 Achievements
 
@@ -268,9 +272,15 @@ class Vinura extends Developer {
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinuraDG&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
+
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 📜 IBM Certifications
 
@@ -287,7 +297,9 @@ class Vinura extends Developer {
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -304,11 +316,17 @@ class Vinura extends Developer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuraDG&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true" width="100%"/>
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🌱 Currently Leveling Up
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+depth+%2B+IoT+builds+%2B+trained+vision+models" alt="Leveling up" />
+
+<br/><br/>
 
 ```
 Spring Boot          ██████████░░  Building REST APIs & Microservices
@@ -323,7 +341,9 @@ Postman              █████████░░░  API Testing & Documen
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -339,7 +359,7 @@ Postman              █████████░░░  API Testing & Documen
 
 <div align="center">
 
-**"The best apps don't just work — they make lives better."**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B2FFF&center=true&vCenter=true&width=700&lines=The+best+apps+don%27t+just+work+%E2%80%94+they+make+lives+better." alt="Closing line" />
 
 <br/>
 
@@ -347,6 +367,6 @@ Postman              █████████░░░  API Testing & Documen
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00F7FF20,100:0D0D0D&height=130&section=footer&text=Let%27s+Build+Something+Extraordinary&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00F7FF20,100:0D0D0D&height=140&section=footer&text=Let%27s+Build+Something+Extraordinary&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkle"/>
 
 </div>
