@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:0A1628,70:00F7FF20,100:7B2FFF&height=240&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Digital%20Craftsman&descSize=19&descAlignY=58&descColor=00F7FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:0A1628,65:00F7FF20,100:7B2FFF&height=250&section=header&text=Vinura%20Deelaka&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%2B%20Mobile%20%2B%20AI%2FIoT%20Engineer&descSize=19&descAlignY=57&descColor=00F7FF&animation=fadeIn"/>
 
-<!-- TYPING SVG — all special chars percent-encoded, no emojis in URL -->
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Dart+Cross-Platform+Developer;YouthSpark+2025+Winner+%E2%80%94+People%27s+Choice+Award;Building+TeaLink+%E2%80%94+Smart+Tea+Supply+Chain+App;Converting+Caffeine+into+Clean+Architecture+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Flutter+%26+Dart+Cross-Platform+Developer;Spring+Boot+%2B+Node.js+Backend+Engineer;PostgreSQL+%7C+MongoDB+%7C+Firebase+Data+Layer;YOLOv8+Computer+Vision+%2B+Raspberry+Pi+IoT;YouthSpark+2025+Winner+%E2%80%94+People%27s+Choice+Award;Docker+%7C+Postman+%7C+CI%2FCD+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,34 +29,38 @@
 
 ---
 
-<!-- ABOUT + CODE BLOCK -->
 <img align="right" alt="Dev GIF" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left: 20px;"/>
 
 ## 🧬 `whoami`
 
 ```yaml
-name      : Vinura Deelaka
-role      : Mobile Developer & AI Researcher
-degree    : BSc (Hons) Computer Science & Technology
-university: Sabaragamuwa University of Sri Lanka
-location  : Sri Lanka
-timeline  : 2022 - 2026
-contact   : vinuragamage123@gmail.com
+name        : Vinura Deelaka
+role        : Full-Stack & Mobile Developer | AI/IoT Researcher
+degree      : BSc (Hons) Computer Science & Technology
+university  : Sabaragamuwa University of Sri Lanka
+location    : Sri Lanka
+timeline    : 2022 - 2026
+contact     : vinuragamage123@gmail.com
+focus_areas : [Flutter, Spring Boot, Node.js, Computer Vision, IoT]
 ```
 
 ```dart
 class Vinura extends Developer {
-  final String specialty = "Flutter & Cross-Platform Apps";
-  final List<String> passions = [
-    "AI-Powered Mobile Experiences",
-    "Clean Architecture & Scalable Systems",
-    "Real-World Problem Solving",
-    "Computer Vision & ML Research",
+  final String specialty = "Flutter Apps + Scalable Backend Systems";
+
+  final List<String> stack = [
+    "Flutter & Dart — Cross-Platform Mobile",
+    "Spring Boot & Node.js — REST APIs",
+    "PostgreSQL & MongoDB — Relational + NoSQL",
+    "YOLOv8 & OpenCV — Real-Time Detection",
+    "Raspberry Pi & Embedded IoT",
+    "Docker — Containerized Deployments",
   ];
 
   @override
   String get funFact =>
-      "I turn coffee into code... and bugs into features!";
+      "I turn coffee into code, sensors into signals, "
+      "and bugs into features!";
 }
 ```
 
@@ -76,15 +80,32 @@ class Vinura extends Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔥 Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI / ML
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 AI / ML / Computer Vision
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=00F7FF)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📡 IoT & Embedded
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -94,10 +115,10 @@ class Vinura extends Developer {
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🧰 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -106,9 +127,31 @@ class Vinura extends Developer {
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
+### 🦁 Field Watch — AI-Powered Wildlife Deterrent System
 
+> *Final Year Research: Raspberry Pi 5 vision system that detects and deters crop-raiding animals in real time*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/FieldWatch.png" alt="Field Watch" width="260" style="border-radius:20px;"/>
+</div>
+
+```
+  YOLOv8 ONNX model trained/retrained for monkey & pigeon detection
+  Custom dataset with human-negative samples to eliminate false positives
+  Flask MJPEG live streaming pipeline, multi-threaded for real-time inference
+  MG90S servo-driven deterrent mechanism triggered on detection (GPIO)
+  Frequency-based deterrence: 25-41 kHz for primates, 5-16 Hz for pigeons
+  Firebase Firestore event logging + React/Vite analytics dashboard
+  systemd-managed services for autonomous field deployment
+  Result: 261 test sessions, 91.6% deterrence success rate
+  Python | YOLOv8 | OpenCV | Flask | Raspberry Pi 5 | Firebase | React
+```
+
+[![GitHub](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinuraDG)
+
+---
 
 ### 🍵 TeaLink — Smart Tea Supply Chain
 
@@ -201,7 +244,7 @@ class Vinura extends Developer {
 ### 🌐 Portfolio Website & 🏝️ Island-Paradise
 
 ```
-  Portfolio      — React | TailwindCSS | Framer Motion | Vercel
+  Portfolio       — React | TailwindCSS | Framer Motion | Vercel
   Island-Paradise — Travel site for Sri Lanka tourism | HTML | CSS
 ```
 
@@ -213,15 +256,15 @@ class Vinura extends Developer {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                      YouthSpark 2025                                 ║
-║                                                                      ║
-║     2nd International Conference on Applied Sciences (ICAS)          ║
-║          Sabaragamuwa University of Sri Lanka                        ║
-║                                                                      ║
-║   Most Promising Technology-Based Concept Award                      ║
-║   People's Choice Award                                              ║
-║                                                                      ║
-║   Project: MatchMate LK — Football Management Application            ║
+║                          YouthSpark 2025                              ║
+║                                                                        ║
+║       2nd International Conference on Applied Sciences (ICAS)         ║
+║            Sabaragamuwa University of Sri Lanka                       ║
+║                                                                        ║
+║      Most Promising Technology-Based Concept Award                    ║
+║      People's Choice Award                                            ║
+║                                                                        ║
+║      Project: MatchMate LK — Football Management Application          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -268,11 +311,14 @@ class Vinura extends Developer {
 <div align="center">
 
 ```
-Spring Boot         ████████░░░░  Backend APIs
-Machine Learning    ██████████░░  Deep Research
-Computer Vision     ████████░░░░  Active Thesis Work
-Scalable Systems    ██████████░░  Architecture Mastery
-Mobile + AI Fusion  ██████░░░░░░  Next Frontier
+Spring Boot          ██████████░░  Building REST APIs & Microservices
+Node.js / Express    █████████░░░  Backend Services & Real-Time APIs
+PostgreSQL           █████████░░░  Relational Schema Design
+MongoDB              ████████░░░░  NoSQL Data Modeling
+Docker               ████████░░░░  Containerizing Full-Stack Apps
+YOLO Model Training  ██████████░░  Custom Dataset Training for Detection
+IoT Device Building  ████████░░░░  Sensor-to-Cloud Pipelines
+Postman              █████████░░░  API Testing & Documentation
 ```
 
 </div>
