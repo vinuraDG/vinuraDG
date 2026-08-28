@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/github/followers/vinuraDG?label=Followers&style=for-the-badge&color=7B2FFF&labelColor=0D0D0D"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 </div>
 
@@ -55,9 +55,7 @@
   </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 🛠️ Interactive Tech Arsenal
 
@@ -74,9 +72,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 🚀 Featured Showcase
 
@@ -153,9 +149,7 @@
   </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 📄 Publications & Research Papers
 
@@ -179,9 +173,7 @@ Summary     : Digitises tea harvest management using Flutter & Cloud infrastruct
 Tags        : [Flutter, Cloud Computing, GPS Tracking, Mobile App, Agriculture, Sri Lanka]
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 🏆 Honors & Certifications
 
@@ -204,9 +196,7 @@ Tags        : [Flutter, Cloud Computing, GPS Tracking, Mobile App, Agriculture, 
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 📊 Live Metrics & Activity
 
@@ -214,15 +204,7 @@ Tags        : [Flutter, Cloud Computing, GPS Tracking, Mobile App, Agriculture, 
   <img src="https://streak-stats.demolab.com/?user=vinuraDG&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=00F7FF" height="165"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuraDG&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/vinuraDG/vinuraDG/main/assets/line-neon.gif" width="100%" alt="divider"/>
-</div>
+<hr style="border:none;height:2px;background:linear-gradient(90deg,#0D0D0D,#00F7FF,#7B2FFF,#0D0D0D);"/>
 
 ## 🐍 Contribution Graph
 
