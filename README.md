@@ -191,10 +191,6 @@ Tags        : [Flutter, Cloud Computing, GPS Tracking, Mobile App, Agriculture, 
 `Most Promising Technology-Based Concept Award` | `People's Choice Award`
 *Project: MatchMate LK — Football Management Application*
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinuraDG&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-
 <br/><br/>
 
 ### 📜 Verified Professional Certifications
@@ -215,7 +211,6 @@ Tags        : [Flutter, Cloud Computing, GPS Tracking, Mobile App, Agriculture, 
 ## 📊 Live Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuraDG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=vinuraDG&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=00F7FF" height="165"/>
 </div>
 
