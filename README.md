@@ -9,8 +9,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://vinuradeelaka.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+    <a href="https://www.vinuradeelaka.me/">
+    <img alt="Vinura Deelaka Portfolio - vinuradeelaka.me" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
   <a href="https://www.linkedin.com/in/vinuradeelaka/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,6 +21,9 @@
   <a href="https://medium.com/@vinuragamage123">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  🌐 <a href="https://www.vinuradeelaka.me/"><b>www.vinuradeelaka.me</b></a> — Portfolio of Vinura Deelaka, Flutter Developer from Sri Lanka
 </p>
 
 <p align="center">
@@ -40,6 +43,7 @@
       <pre>
 <code>{
   "name": "Vinura Deelaka",
+  "portfolio": "https://www.vinuradeelaka.me",
   "role": "Full-Stack & Mobile Developer | AI/IoT Researcher",
   "degree": "BSc (Hons) Computer Science & Technology",
   "university": "Sabaragamuwa University of Sri Lanka",
